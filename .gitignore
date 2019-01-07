@@ -1,5 +1,11 @@
 .DS_Store
 
+# Example .env
+!.env.example
+
+# Styles will be built from sass
+public/styles
+
 # Logs
 logs
 *.log
