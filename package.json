@@ -1,7 +1,7 @@
 {
   "name": "fecalmatters",
   "version": "1.0.0",
-  "repository": "github:zixialu/choosy",
+  "repository": "github:zixialu/fecalmatters",
   "description": "Your poop is important.",
   "main": "index.js",
   "scripts": {
